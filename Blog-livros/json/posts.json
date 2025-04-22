@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "Introdução ao Desenvolvimento Web",
+      "excerpt": "Aprenda os conceitos básicos de HTML, CSS e JavaScript para começar sua jornada como desenvolvedor web.",
+      "image": "https://source.unsplash.com/random/600x400/?web,development",
+      "date": "15 de Abril, 2023",
+      "author": "Ana Silva",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 2,
+      "title": "Design Responsivo na Prática",
+      "excerpt": "Dicas essenciais para criar layouts que se adaptam perfeitamente a qualquer dispositivo.",
+      "image": "https://source.unsplash.com/random/600x400/?responsive,design",
+      "date": "16 de Abril, 2023",
+      "author": "Carlos Oliveira",
+      "category": "Design"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Moderno",
+      "excerpt": "Explore as últimas features do ECMAScript 2023 para escrever código mais limpo e eficiente.",
+      "image": "https://source.unsplash.com/random/600x400/?javascript,code",
+      "date": "17 de Abril, 2023",
+      "author": "Mariana Santos",
+      "category": "Programação"
+    },
+    {
+      "id": 4,
+      "title": "Acessibilidade na Web",
+      "excerpt": "Como tornar seu site acessível para todos os usuários, seguindo as diretrizes WCAG.",
+      "image": "https://source.unsplash.com/random/600x400/?accessibility,web",
+      "date": "18 de Abril, 2023",
+      "author": "Pedro Almeida",
+      "category": "Inclusão"
+    },
+    {
+      "id": 5,
+      "title": "O Futuro do CSS",
+      "excerpt": "Novas especificações CSS que estão mudando a forma como estilizamos a web.",
+      "image": "https://source.unsplash.com/random/600x400/?css,design",
+      "date": "19 de Abril, 2023",
+      "author": "Luiza Fernandes",
+      "category": "Front-end"
+    },
+    {
+      "id": 6,
+      "title": "Otimização de Performance",
+      "excerpt": "Técnicas avançadas para tornar seu site extremamente rápido e eficiente.",
+      "image": "https://source.unsplash.com/random/600x400/?speed,performance",
+      "date": "20 de Abril, 2023",
+      "author": "Rafael Costa",
+      "category": "DevOps"
+    }
+  ]

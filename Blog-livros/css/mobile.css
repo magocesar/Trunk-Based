@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .menu ul {
+        flex-direction: column;
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .menu li {
+        margin: 0.5rem 0;
+    }
+
+    .dropdown-content {
+        position: static;
+        box-shadow: none;
+    }
+
+    .posts-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .footer-links ul {
+        flex-direction: column;
+    }
+
+    .footer-links li {
+        margin: 0.5rem 0;
+    }
+}
